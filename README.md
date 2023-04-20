@@ -1,4 +1,8 @@
 # Exercicios_Ruby
+<div align="center">
+<img src="https://user-images.githubusercontent.com/116441568/233227782-d3076026-e6a0-41fd-9551-a91ff0ea70a7.png" width="100px" />
+</div>
+
 ## Conhecendo e treinando Ruby
 
 ### Estrutura sequencial
