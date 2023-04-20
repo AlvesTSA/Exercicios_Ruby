@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/116441568/233227782-d3076026-e6a0-41fd-9551-a91ff0ea70a7.png" width="60px" />
 </div>
 
-<h1 align="center">Conhecendo e treinando Java</h1>
+<h1 align="center">Conhecendo e treinando Ruby</h1>
 
 Esses exercícios são genéricos e podem ser resolvidos em qualquer linguagem que você preferir, apenas tome cuidado e os adapte a medida que você percebe as limitações de cada linguagem.
 <p align="center">
